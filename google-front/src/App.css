@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.google-button {
+  display: flex;
+  background-color: aliceblue;
+  width: 50%;
+  padding: 1rem;
+  border-radius: 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  width: 2rem;
+  margin-left: .5rem;
+}
