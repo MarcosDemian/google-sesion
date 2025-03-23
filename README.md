@@ -82,9 +82,9 @@ Este proyecto me ayudó a entender:
 
 Si tengo tiempo, me gustaría agregar:
 
--   Un mensaje de bienvenida con el nombre del usuario.
+-   Un mensaje de bienvenida con el nombre del usuario. ✅Ya añadido✅
     
--   Soporte para cerrar sesión.
+-   Soporte para cerrar sesión. ✅Ya añadido✅
     
 
 ----------
